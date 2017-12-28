@@ -17,3 +17,4 @@
 如果您需要一個對技術有熱情，好溝通，有想法，負責任的人，我是您很好的選擇
 
 ## 技能
+`Web Development` `PHP` `Laravel` `git` `HTML5` `CSS` `JavaScript` `Bootsrap` `MySQL` `Linux` `Apache` `CodeIgniter` `RESTfulAPI` `Docker` `Scrapy` `E-commerce` `Redis` `Java` `Design Pattern`
