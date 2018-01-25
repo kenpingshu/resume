@@ -68,3 +68,11 @@ If you are looking for someone who has passion for technology, good communicatio
 * ### 917play
   Web game platform  
   [see project](http://www.917play.com.tw/)
+  
+## Education
+Asia University (TW)  
+Degree NameBachelor of Science (B.S.)  
+2007 – 2011
+
+## Languages
+``English`` ``Chinese``
