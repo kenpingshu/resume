@@ -37,7 +37,8 @@
 `Web Development` `PHP` `Laravel` `git` `HTML5` `CSS` `JavaScript` `Bootsrap` `MySQL` `Linux` `Apache` `CodeIgniter` `RESTfulAPI` `Docker` `Scrapy` `E-commerce` `Redis` `Java` `Design Pattern`
 
 ## 工作經驗
-> 總年資 7 年
+> 總年資 7 年  
+
 * ### Senior Developer
   ##### OnRamp Lab, Feb 2016 – Present, 2 yrs  
 
