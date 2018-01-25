@@ -5,16 +5,17 @@
 > [knel.tw@gmail.com](knel.tw@gmail.com)  
 
 ## Summary
-我是一個對網站開發有非常大熱情的網站開發者，自學能力強，喜歡鑽研於新的技術。在網站服務開發有五年以上的經驗，在電子商務領域有兩年以上的經驗，擔任組長有兩年的經驗。實際上，從小學就開始接觸程式設計一直到現在。
+I have been engaged in website development for five years,But in fact,I started writing programs since I was child.The first programing language I learned is Q-basic when I was 10 years old,from that time, I start my programing life.
 
-在我的工作生涯中，網站開發幾乎佔了我所有的時間，從前端到後端到資料庫最後的環境架設，常常有時候都是需要自己一手包辦，令我印象深刻的經驗有很多，例如
-* 帶領團隊參加黑客松的活動，我們在僅僅的兩天內完成了有趣的專案，專案的目的是使正在國外旅行的遊客可以幫你買當地的限定商品給使用者
-* 解決e-commerce系統產生的race condition問題， 避免公司產生額外的損失
-* 運用各種語言的特性完成不同類型的專案，用python寫網路爬蟲因為python的scrapy在網路爬蟲上很方便，用nodejs非同步的語法，同時送出500個api request，大大減少等待的時間，這兩種語言在之前是沒有機會接觸到的，學習新語言對我來說不是一件困難的事情
+In my work experience, all around web development include frontend, backend, database, and environment build up.There are something that impressed me is
+* I have solved the big problem like "race condition" and saved the company to avoid the emergency situation. 
+* I make a team to join Hackathon event, We use just two days to created this amazing project. that project allow strangers to purchases items for people whitch around them.The link can see below.
+* I think every language has their own characteristics, so I use phython scrapy framework to crawl the website, and use node.js that can do asynchronous to send the api request at the same time. The point is I never use node.js and python before, so learning new programing language is not hard for me.
 
-我的個性很隨和，好相處，好溝通，在團隊裡我通常都是想法最多的那一個人，喜歡與人討論，分享我所知道的，接受我所不足的，跟著團隊一起成長是我想要的工作環境，自己私底下也很喜歡研究程式的設計模式，自動化部屬，自動化測試，各種可以增進工作效率，讓事情變得聰明又簡單
+My personality is generous, easy-going, responsible, and good communication.In the team, I am usually the person with the most thoughts, not only for programing, can be product, UX/UI, everything.I like to discussion with people who likes programing, and share everything what I know. Design pattern is what I like to study, the code with good pattern will make code clean, smart , reusable. Automation is also my favorite that can make work simple, fast, and easy.like Docker, Continuous Integration, Testing.
 
-如果您需要一個對技術有熱情，好溝通，有想法，負責任的人，我是您很好的選擇
+If you are looking for someone who has passion for technology, good communication and ideas, I'm your good choice.
+
 
 ## Skills
 `Web Development` `PHP` `Laravel` `git` `HTML5` `CSS` `JavaScript` `Bootsrap` `MySQL` `Linux` `Apache` `CodeIgniter` `RESTfulAPI` `Docker` `Scrapy` `E-commerce` `Redis` `Java` `Design Pattern`
