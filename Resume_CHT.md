@@ -1,10 +1,10 @@
 
-> __許東篁__  
+## 許東篁 Ken Hsu
 > 資深網站工程師  
 > 台灣, 台北市, 32 y/o  
 > [knel.tw@gmail.com](knel.tw@gmail.com)  
 
-## 簡介
+## Summary
 我是一個對網站開發有非常大熱情的網站開發者，自學能力強，喜歡鑽研於新的技術。在網站服務開發有五年以上的經驗，在電子商務領域有兩年以上的經驗，擔任組長有兩年的經驗。實際上，從小學就開始接觸程式設計一直到現在。
 
 在我的工作生涯中，網站開發幾乎佔了我所有的時間，從前端到後端到資料庫最後的環境架設，常常有時候都是需要自己一手包辦，令我印象深刻的經驗有很多，例如
@@ -16,5 +16,40 @@
 
 如果您需要一個對技術有熱情，好溝通，有想法，負責任的人，我是您很好的選擇
 
-## 技能
+## Skills
 `Web Development` `PHP` `Laravel` `git` `HTML5` `CSS` `JavaScript` `Bootsrap` `MySQL` `Linux` `Apache` `CodeIgniter` `RESTfulAPI` `Docker` `Scrapy` `E-commerce` `Redis` `Java` `Design Pattern`
+
+## Experience
+* ### Senior Developer
+  ##### OnRamp Lab, Feb 2016 – Present, 2 yrs  
+
+  * Make SEO friendly page that will improve the score in search engine.(including AMP, Schema.org tags)
+  * Integrate google adwords api to mass upload google adwords.
+  * Create web service to search people background around the world.
+  * Create new website http://www.weddingdresses.com/
+  * Create web spiders to scrape datas into our database 
+  * Customize wordpress plugin in our website
+  * Using docker to deploy our environment
+  
+* ### RD(full stack)
+  ##### 風尚數位股份有限公司 Nov 2015 – Jan 2016, 3 mos
+
+  * Use PHP with codeigniter framework to build the restful webservice to exchange virtual currency.
+
+* ### Team leader of RD team(full stack)
+  ##### SHOP123, Oct 2013 – Oct 2015, 2 yrs 1 mo  
+
+  * E commerce system maintenance.
+  * Use HTM+CSS+Javascript+PHP+mysql to create new promotion module in E commerce system .
+  * Lead a three people team to develop E commerce system .
+  * Build the CMS system for E commerce system.
+
+* ### Website Developer(full stack)
+  ##### 台灣淘米科技股份有限公司, Sep 2012 – Sep 2013, 1 yr 1 mo
+  * Build the new web game platform : http://www.917play.com.tw/
+  * Build the soap webservice to connection with web game platform.
+  * Build the event website for online game .
+  * Build the official website for online game.
+  * Build the CMS system for online game.
+  
+## Projects
