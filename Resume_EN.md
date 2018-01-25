@@ -1,7 +1,7 @@
 
 ## 許東篁 Ken Hsu
-> 資深網站工程師  
-> 台灣, 台北市, 32 y/o  
+> Senior Web developer  
+> Taipei, Taiwan, 32 y/o  
 > [knel.tw@gmail.com](knel.tw@gmail.com)  
 
 ## Summary
@@ -22,7 +22,7 @@ If you are looking for someone who has passion for technology, good communicatio
 
 ## Experience
 * ### Senior Developer
-  ##### OnRamp Lab, Feb 2016 – Present, 2 yrs  
+  OnRamp Lab, Feb 2016 – Present, 2 yrs  
 
   * Make SEO friendly page that will improve the score in search engine.(including AMP, Schema.org tags)
   * Integrate google adwords api to mass upload google adwords.
